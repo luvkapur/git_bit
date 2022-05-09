@@ -27,7 +27,7 @@ export const disabled = () => {
   return (
     <ThemeContext>
       <div>
-        <CheckBox disabled /> <span>Option</span>
+        <CheckBox disabled /> <span>Options</span>
       </div>
     </ThemeContext>
   );
