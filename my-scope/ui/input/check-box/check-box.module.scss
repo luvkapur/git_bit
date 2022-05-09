@@ -1,5 +1,6 @@
 .baseCheckbox {
   cursor: pointer;
+  user-select: none;
 
   input:disabled + & {
     cursor: auto;
